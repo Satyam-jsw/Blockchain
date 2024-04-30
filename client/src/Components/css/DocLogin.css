@@ -1,0 +1,73 @@
+.dlbody {
+    /* background-color: rgb(255, 0, 106); */
+    /* background-image: url(../Images/doctors.jpg); */
+    /* Full height */
+
+
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #ecebedf5;
+
+    background-size: cover;
+    padding-bottom: 30%;
+    width: 100%;
+    top: 50%;
+}
+
+.form {
+    padding-top: 10%;
+}
+
+
+.button {
+    padding: 5px;
+    margin: 10px;
+}
+
+.dbutton {
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(35, 96, 153);
+}
+
+.pbutton {
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(35, 96, 153);
+}
+
+.label {
+    /* width: 200px; */
+    text-align: left;
+}
+
+.input-box-heading {
+    text-align: left;
+}
+
+.label,
+input {
+    display: inline-block;
+    margin: 2px;
+}
+
+
+.form-size {
+    border: rgba(246, 249, 254, 0.40) solid 3px;
+    background-color: rgb(207 226 255);
+    border-radius: 10px;
+    width: 400px;
+    height: min-content;
+    padding: 40px;
+}
+
+.Home-image {
+    max-height: 100%;
+    width: auto;
+    border-radius: 80%;
+    margin-left: 20px;
+    max-width: 100%;
+}
